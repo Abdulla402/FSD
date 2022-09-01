@@ -15,3 +15,5 @@ gross=sal+ta+da+har
 nett=gross-pf-it-esi
 print('code\t name\t desc\t comp\t sal\t gross\t deduction\t allowance\t nett\t')
 print(code,'\t',name,'\t',des,'\t',sal,'\t',gross,'\t',deduction,'\t',allowance,'\t',nett)
+print("hello world")
+print(" my name is victor")
